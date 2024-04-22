@@ -1,0 +1,51 @@
+.first_page{
+    text-align: center;
+}
+.hashtag{
+    color: rgb(0, 132, 255);
+}
+
+.preface-container{
+    display: flex;
+    justify-content: center;
+}
+
+.preface{
+    text-align: start;
+    max-width: 1000px;
+
+}
+.picture1{
+    width: 400px;
+}
+
+.first_page_link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.first_page_link p{
+    font-weight: 500;
+}
+
+.picture{
+    height: 350px;
+}
+
+.picture:hover{
+    filter:brightness(70%);
+}
+
+.picture:active{
+    filter:brightness(50%);
+}
+
+.bottom-align{
+    display: flex;
+    justify-content: center;
+}
+
+.first_page_bottom{
+    text-align: start;
+}

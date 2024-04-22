@@ -1,0 +1,33 @@
+.second_page{
+    text-align: center;
+}
+.magic_tool{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    text-align: start;
+    max-width: 1000px;
+}
+.headline{
+    font-weight: 800;
+}
+
+.button{
+    text-align: center;
+}
+
+.to-main-page{
+    width: 80px;
+    height: 45px;
+    border-radius: 18px;
+    cursor: pointer;
+    border-style: solid;
+    border-color: rgb(215, 150, 19);
+    border-width: 1px;
+    background-color: rgb(237, 196, 12);
+    font-weight: 800;
+}
