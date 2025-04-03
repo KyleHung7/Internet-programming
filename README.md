@@ -1,7 +1,7 @@
 # NTNU Drinks Project
 
 ## Course Information
-This project is part of the **Internet Programming** course taught by **Professor Ling-Rong Wu**. The course focuses on both theoretical and practical aspects of how clients connect to servers, including Echo Servers and Web Servers. Students will learn the fundamentals of internet programming, set up web servers, and develop applications involving client-server interactions. By the end of the course, students are expected to build their own network-based services utilizing the concepts covered in class.
+This project is part of the **Internet Programming** course taught by **Professor Ling-Jung Wu**. The course focuses on both theoretical and practical aspects of how clients connect to servers, including Echo Servers and Web Servers. Students will learn the fundamentals of internet programming, set up web servers, and develop applications involving client-server interactions. By the end of the course, students are expected to build their own network-based services utilizing the concepts covered in class.
 
 ### Course Objectives
 1. **Understanding Client-Server Communication**: Learn how clients interact with web and echo servers.
